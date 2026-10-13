@@ -46,7 +46,7 @@ I enjoy solving real-world business problems, designing efficient APIs, and deve
 
 ## 🚀 What I Do
 
-<table>
+<table  align="center">
 <tr>
 <td width="50%">
 
