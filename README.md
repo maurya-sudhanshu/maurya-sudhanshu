@@ -28,3 +28,32 @@ I build scalable web solutions with a strong focus on clean code, API design, an
 - Build API-first, scalable systems
 - Write clean, readable, and testable code
 - Continuously learn and improve through hands-on development
+
+---
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=maurya-sudhanshu&theme=solarized_dark" alt="profile" />
+</p>
+
+<table>
+  <tr>
+    <td>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=maurya-sudhanshu&theme=solarized_dark" alt="Top Languages by Repo" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maurya-sudhanshu&layout=compact&theme=dark" alt="Top Languages by Commit" />
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=maurya-sudhanshu&show_icons=true&count_private=true&theme=dark&include_all_commits=true" alt="GitHub Stats" />
+    </td>
+    <td>
+      <img src="https://github-readme-activity-graph.cyclic.app/graph?username=maurya-sudhanshu&theme=github-dark&area=true" alt="Contributions Graph" />
+    </td>
+  </tr>
+</table>
+
+---
+
+If you'd like a different theme (light / dark / gruvbox) or a different layout (single column, different cards), tell me which style and I'll adjust the README accordingly.
